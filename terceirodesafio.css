@@ -1,0 +1,81 @@
+html { tamanho da fonte :  36 px ; }
+
+corpo { margem :  0 % ;
+cor de fundo : rgb( 3 ,  250 ,  168 ;}
+
+. caixa flexível {
+borda :  5px ; _
+cor de fundo : rgb ( 3 ,  250 ,  168 );
+exibição : flexível;
+direção flexível : linha;
+flex-wrap : embrulhar;
+altura :  150px ; _
+justificar-conteúdo : espaço entre;
+alinhar itens : flex-start;
+}
+
+. flexboxdiv  { _
+  borda :  2 px RGB sólido ( 38 ,  107 ,  38 );
+  preenchimento :  16 px ;
+ cor de fundo : rgb ( 3 ,  250 ,  168 );
+  exibir : conteúdo;
+  altura :  80px ; _
+  justificar-conteúdo : espaço entre;
+  alinhar itens : flex-start;
+}
+
+. tamanho1 {
+  altura :  100 % ;
+  margem inferior :  15 px ;
+  exibir : conteúdo;
+  cor de fundo :  rgb ( 3 ,  250 ,  168 );}
+
+
+
+. flexbox  div : pairar {
+
+}
+
+. cabeçalho {
+  exibição : flexível;
+  justificar-conteúdo : espaço entre;
+  cor de fundo :  rgb ( 185 ,  245 ,  225 );
+  preenchimento :  16 px ;
+  cor : rgb ( 38 ,  107 ,  38 );
+  alinhar itens : flex-start;
+  justificar-conteúdo : espaço entre;
+}
+
+. logotipo-headr {
+  tamanho da fonte :  44 px ;
+  transformação de texto : maiúscula;
+  margem esquerda :  30 px ;
+  cor :  rgb ( 38 ,  107 ,  38 );
+}
+. headr-nav  ul {
+  exibição : flexível;
+  tipo de estilo de lista : nenhum;
+  tamanho da fonte :  22 px ;
+  lacuna :  16 px ;
+  margem direita :  30 px ;
+  cor : rgb ( 38 ,  107 ,  38 );}
+
+. headr-nav  a {
+  cor :  rgb ( 38 ,  107 ,  38 );
+  decoração de texto : nenhuma;
+  preenchimento :  14 px ;
+  raio da borda :  5 px em preto sólido;}
+
+. headr-nav  a : pairar {
+  cor de fundo : verde-amarelo;
+  raio da borda :  5 px ;
+  cor : preto;
+
+}
+
+. rodapé {
+cor de fundo : água-marinha;
+tamanho da fonte :  56 ;
+alinhamento de texto : centro;
+cor : rgb ( 38 ,  107 ,  38 );
+}
